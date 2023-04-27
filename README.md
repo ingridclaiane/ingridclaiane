@@ -1,4 +1,4 @@
-Olá!! Eu sou a Ingrid Claiane 👋
+## Olá!! Eu sou a Ingrid Claiane 👋
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Javascript

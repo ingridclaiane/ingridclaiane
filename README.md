@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Ingrid Claiane 👋
+## 💜 Olá, meu nome é <strong>{Ingrid Claiane}!</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="40px" width="400x" align="right" alt="Computador iuriCode">
 

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="40px" width="400x" align="right" alt="Computador iuriCode">
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
+- 🔭 Estou na área FrontEnd 
+- 🌱 Estudando Javascript e seus Frameworks
 - 📫 Contate-me no e-mail: ingridclaiane61@gmail.com
 
 

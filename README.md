@@ -21,6 +21,4 @@
   <a href = "mailto:ingridclaiane61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-##
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridclaiane&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
